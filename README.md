@@ -1,6 +1,7 @@
 - Hi, I’m @Bardreamaster , 石常山, Changshan
-- Contact : changshanshi@outlook.com
+- e-mail : changshanshi@outlook.com
 - My blog : [shichangshan.xyz](https://shichangshan.xyz)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bardreamaster&layout=compact&hide=makefile,assembly)](https://github.com/anuraghazra/github-readme-stats)
+[![Bardreamaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bardreamaster&count_private=true&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
+
