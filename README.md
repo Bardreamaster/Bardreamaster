@@ -3,5 +3,5 @@
 - My blog : [shichangshan.xyz](https://shichangshan.xyz)
 
 
-[![Bardreamaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bardreamaster&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Bardreamaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bardreamaster&count_private=true&show_icons=true&hide_rank=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
