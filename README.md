@@ -1,4 +1,4 @@
-- Hi, I’m 魏锦启, WeiJinqi. Also could call me 石常山, ShiChangshan.
+- Hi, I’m 魏锦启, WeiJinqi.
 - e-mail : changshanshi@outlook.com
 - My blog : [weijinqi.com](https://weijinqi.com)
 
