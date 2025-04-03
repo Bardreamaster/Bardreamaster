@@ -19,3 +19,8 @@
 <a href="https://github.com/robook-org/ros2_documentation">
   <img align="center" src="https://github-readme-stats.shichangshan.xyz/api/pin/?username=robook-org&repo=ros2_documentation&theme=dark" />
 </a>
+
+
+<a href="https://github.com/Bardreamaster/python_package_template">
+  <img align="center" src="https://github-readme-stats.shichangshan.xyz/api/pin/?username=Bardreamaster&repo=python_package_template&theme=dark" />
+</a>
