@@ -24,3 +24,6 @@
 <a href="https://github.com/Bardreamaster/python_package_template">
   <img align="center" src="https://github-readme-stats.shichangshan.xyz/api/pin/?username=Bardreamaster&repo=python_package_template&theme=dark" />
 </a>
+<a href="https://github.com/Bardreamaster/malphite">
+  <img align="center" src="https://github-readme-stats.shichangshan.xyz/api/pin/?username=Bardreamaster&repo=malphite&theme=dark" />
+</a>
